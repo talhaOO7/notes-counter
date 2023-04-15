@@ -18,7 +18,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="file:/C:/Users/Home%20pc/AppData/Local/Android/Sdk/icons/material/materialicons/arrow_upward/baseline_arrow_upward_24.xml" />
+                                      <entry key="url" value="jar:file:/C:/Program%20Files/Android/Android%20Studio/plugins/android/lib/android.jar!/images/material/icons/materialicons/keyboard_double_arrow_up/baseline_keyboard_double_arrow_up_24.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -28,8 +28,8 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="color" value="6b02ff" />
-                            <entry key="outputName" value="baseline_arrow_upward_24" />
+                            <entry key="color" value="029aff" />
+                            <entry key="outputName" value="baseline_keyboard_double_arrow_up_24" />
                             <entry key="sourceFile" value="F:\Semester 4 Assignments\App Dev\Decimal to Binary" />
                           </map>
                         </option>
